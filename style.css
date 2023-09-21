@@ -1,0 +1,17 @@
+body {
+  width: 400px;
+  margin: auto;
+  background-color: #000104;
+  font-family: Digital;
+     font-size: 18px;
+  color: #a3cce6;
+}
+
+a {
+  color: #917873;
+}
+a:visited {
+  color: #4489ca;
+}
+
+
